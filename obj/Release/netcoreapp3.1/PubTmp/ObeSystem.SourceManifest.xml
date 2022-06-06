@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\ObeSystem.Repository.AppDbContext.sql" />
+</sitemanifest>

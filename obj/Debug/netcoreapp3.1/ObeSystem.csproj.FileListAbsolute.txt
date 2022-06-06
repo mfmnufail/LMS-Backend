@@ -1,0 +1,380 @@
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.exe
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.deps.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.runtimeconfig.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.runtimeconfig.dev.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.Views.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ObeSystem.Views.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Nest.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.AssemblyInfoInputs.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.AssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.csproj.CoreCompileInputs.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\staticwebassets\ObeSystem.StaticWebAssets.Manifest.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\staticwebassets\ObeSystem.StaticWebAssets.xml
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ObeSystem.styles.css
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.TagHelpers.input.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.TagHelpers.output.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorCoreGenerate.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Create.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Delete.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Details.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Edit.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Index.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorTargetAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorTargetAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.Views.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.csproj.CopyComplete
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.genruntimeconfig.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Hosting - Copy\server\obj\Debug\netcoreapp3.1\ObeSystem.csprojAssemblyReference.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.exe
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.deps.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.runtimeconfig.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.runtimeconfig.dev.json
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.Views.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ObeSystem.Views.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Nest.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.csprojAssemblyReference.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.AssemblyInfoInputs.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.AssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.csproj.CoreCompileInputs.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\staticwebassets\ObeSystem.StaticWebAssets.Manifest.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\staticwebassets\ObeSystem.StaticWebAssets.xml
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ObeSystem.styles.css
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.TagHelpers.input.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.TagHelpers.output.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorCoreGenerate.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Create.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Delete.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Details.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Edit.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\AssessmentLos\Index.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorTargetAssemblyInfo.cache
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.RazorTargetAssemblyInfo.cs
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.Views.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.csproj.CopyComplete
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.dll
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.pdb
+E:\Semester 5\Software Project EE5206\Outcome based Education\Github\Original\server\obj\Debug\netcoreapp3.1\ObeSystem.genruntimeconfig.cache
