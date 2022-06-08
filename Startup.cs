@@ -1,6 +1,9 @@
 
+using System;
+using LMSystem.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -20,6 +23,9 @@ namespace LMSystem
         
         public void ConfigureServices(IServiceCollection services)
         {
+            
+            services.AddDbContextPool<AppDbContext>(options =>
+                options.UseMySql(Configuration.GetConnectionString("LMSDbConnection"),  new MySqlServerVersion(new Version())));
             services.AddControllers();
 
             services.AddCors(opt =>
