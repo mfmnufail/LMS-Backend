@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cc3dfe-89dc-4466-8ac2-429ad6d73cc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LMSystem.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LMSystem.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Application/Students/List.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
       <workItem from="1654527950662" duration="3000" />
       <workItem from="1654527969452" duration="1876000" />
       <workItem from="1654681394475" duration="1341000" />
+      <workItem from="1654795565969" duration="447000" />
     </task>
     <servers />
   </component>
