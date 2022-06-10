@@ -29,6 +29,11 @@ namespace LMSystem.Controllers
             return await _mediator.Send(new List.Query());
         }
         
+        [HttpPost]
+        public async Task<ActionResult<Student>> Create(Create.Command command)
+        {
+            return await _mediator.Send(command);
+        }
 
 
 
