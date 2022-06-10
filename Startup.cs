@@ -1,6 +1,8 @@
 
 using System;
+using LMSystem.Application.Students;
 using LMSystem.Repository;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -35,6 +37,8 @@ namespace LMSystem
                     policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
                 });
             });
+            
+            services.AddMediatR(typeof(List.Handler).Assembly);
 
        
 
