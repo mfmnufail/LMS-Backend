@@ -34,6 +34,13 @@ namespace LMSystem.Controllers
         {
             return await _mediator.Send(command);
         }
+        
+        
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<Student>> Delete(string id)
+        {
+            return await _mediator.Send(new Delete.Command { regNo = id });
+        }
 
 
 
