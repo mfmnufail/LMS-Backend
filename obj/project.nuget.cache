@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5JW2huxDFHrVnFnhCVrqcw+R6LO/+CO+MyBxhqS9oj9cbiI80SUTsRKmGqWsabzdT6WU0lt8WyYL68y680Me0A==",
+  "dgSpecHash": "L4DUMqNcmo2+bGxP5BojkR6HqfhjS/guSBPJ7i/OqMSVAXXsxjFO0SRSbyNqGNu/NUUhphD910PCakwBuGam0w==",
   "success": true,
   "projectFilePath": "/Volumes/Mac/8th Semester/Software Architecture /Assignment 01/Own/Github/Backend/LMSystem.csproj",
   "expectedPackageFiles": [
@@ -198,7 +198,10 @@
     "/Users/nufail/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/nufail/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/nufail/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/nufail/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/nufail/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/nufail/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/nufail/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nufail/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }

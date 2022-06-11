@@ -1,6 +1,7 @@
 
 using System;
 using LMSystem.Application.Students;
+using LMSystem.Middleware;
 using LMSystem.Repository;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -46,10 +47,11 @@ namespace LMSystem
         
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseMiddleware<ErrorHandlingMiddleware>();
 
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                // app.UseDeveloperExceptionPage();
             }
 
             app.UseHttpsRedirection(); 

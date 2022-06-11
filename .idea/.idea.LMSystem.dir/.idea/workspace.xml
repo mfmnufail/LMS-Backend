@@ -10,7 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cc3dfe-89dc-4466-8ac2-429ad6d73cc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Controllers/StudentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/StudentController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LMSystem.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LMSystem.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/LMSystem.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/LMSystem.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/LMSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/LMSystem.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +104,8 @@
       <workItem from="1654527969452" duration="1876000" />
       <workItem from="1654681394475" duration="1341000" />
       <workItem from="1654795565969" duration="823000" />
-      <workItem from="1654878186275" duration="304000" />
+      <workItem from="1654878186275" duration="740000" />
+      <workItem from="1654967338917" duration="482000" />
     </task>
     <servers />
   </component>
